@@ -6,7 +6,5 @@ requests
 dash_renderer
 dash-html-components
 dash-core-components
-dash.dependencies
 pandas
 numpy
-dash.dependencies
