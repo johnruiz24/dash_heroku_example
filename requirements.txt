@@ -9,3 +9,4 @@ dash-core-components
 dash.dependencies
 pandas
 numpy
+dash.dependencies
